@@ -12,4 +12,4 @@ You can check by going to `127.0.0.1:8181` if you're on the same machine. Replac
 After you are sure that it all works, you can keep Tautulli running in the background, just run `docker-compose up -d`.
 
 ## For More Information
-For a more in depth guide on how this works, you can go to [selfhostedheaven.com](https://selfhostedheaven.com/posts/20210113-monitoring-plex-with-tautulli/)
+For a more in depth guide on how this works, you can go to [selfhostedheaven.com](https://selfhostedheaven.com/posts/20220113-monitoring-plex-with-tautulli/)
